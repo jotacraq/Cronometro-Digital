@@ -1,2 +1,2 @@
 # Cronometro-Digital
- Timer em JavaScript para praticar lógica de programação. Cronômetro com iniciar/pausar/zerar usando setInterval, clearInterval e formatação HH:MM:SS com padStart(). Gerenciamento de estados booleanos e manipulação DOM. Projeto simples que reforça conceitos fundamentais de JS.
+Cronômetro digital desenvolvido com JavaScript puro, com foco no reforço da lógica de programação e no controle de fluxo assíncrono. Utiliza setInterval e clearInterval para gerenciar o tempo, padStart() para formatar a saída no padrão HH:MM:SS, e manipulação do DOM para atualização da interface em tempo real. O projeto também aplica controle de estados booleanos e lógica condicional, servindo como base sólida para compreender timers, eventos e ciclos no JavaScript.
